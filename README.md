@@ -1,10 +1,3 @@
-# SmartDocs
-# A document search web app.
-Perfect! Let’s make a **polished README** for your Smart Docs project. I’ll make it clear, professional, and easy for anyone to run and understand. Here’s a draft you can save as `README.md` in your repo root:
-
----
-
-````markdown
 # Smart Docs
 
 Smart Docs is a full-stack web application that allows users to **upload documents** and **search for keywords or phrases** within them. Built with **React** for the frontend and **Express/Node.js** for the backend.
